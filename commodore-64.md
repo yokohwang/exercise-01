@@ -11,10 +11,10 @@
 <h1>Commodore 64</h1>
 
 <h5>[Navigation]</h5>
-<h5><a href="index.html" > Home</a></h5>
-<h5><a href="apple-ii.html" > Apple II</a></h5>
+<h5><a href="index.md" > Home</a></h5>
+<h5><a href="apple-ii.md" > Apple II</a></h5>
 <h5><em>Commodore 64</em></h5>
-<h5><a href="trs-80.html" > TRS 80</a></h5>
+<h5><a href="trs-80.md" > TRS 80</a></h5>
 
 <img src="commodore-64.jpg" alt="Commodore 64">
 <h6><em>Commodore 64. Photo By: Evan Amos (Public Domain)</h6></em>

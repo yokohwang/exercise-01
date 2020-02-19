@@ -11,10 +11,10 @@
 <h1>Apple II</h1>
 
 <h5>[Navigation]</h5>
-<h5><a href="index.html" > Home</a></h5>
+<h5><a href="index.md" > Home</a></h5>
 <h5><em>Apple II</em></h5>
-<h5><a href="commodore-64.html" > Commodore 64</a></h5>
-<h5><a href="trs-80.html" > TRS 80</a></h5>
+<h5><a href="commodore-64.md" > Commodore 64</a></h5>
+<h5><a href="trs-80.md" > TRS 80</a></h5>
 
 <img src="apple-ii.jpg" alt="Apple II">
 <h6><em>Apple II. Photo By: Bilby (CC-BY)</em></h6>
